@@ -2,9 +2,10 @@
 
 Overview
 
-Welcome to my Shopping cart project. This is real life shopping cart to be able to calculate your expense. Run the whole folder not a single file!
+Welcome to my Shopping cart project. This is real life shopping cart that can help track expense and help you budget. It allows you to be able to calculate your expense. This allow you to simulate a real life shopping experince with some really cool products!
 
-To run each one either go to the link on the top of the file or if cloning jsut run each indivual file to play each game!
+Run the whole folder not a single file!
+
 
 Contributions are welcome! To contribute:
 
